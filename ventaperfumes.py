@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1sqFs-7O3jXGrpPOspWEoWrsR_TWWJkp5
 """
 
+
+import kagglehub 
+
+
 # Download latest version
 path = kagglehub.dataset_download("kanchana1990/perfume-e-commerce-dataset-2024")
 
